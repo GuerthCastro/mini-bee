@@ -1,0 +1,568 @@
+[
+	{
+		"Id": 1,
+		"Brand": "Hyundai",
+		"Model": "Santa Fe",
+		"Year": 2015,
+		"InitialCount": 41781.25,
+		"LicensePlate": "BYG-387",
+		"Icon": "hyundai.png",
+		"IsMiles": false,
+		"FuelType": "Diesel",
+		"Octane": 88,
+		"TankSize": 60,
+		"IsGallons": false,
+		"EfficiencyMode": "Worst",
+		"CurrencySymbol": "₡",
+		"FuelRefillList": [
+			{
+				"Id": 1,
+				"VehicleId": 1,
+				"Date": "2023-07-06T00:00:00",
+				"Distance": 42244,
+				"Liters": 54.354,
+				"Price": 31199,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 2,
+				"VehicleId": 1,
+				"Date": "2023-07-31T00:00:00",
+				"Distance": 42784,
+				"Liters": 53.954,
+				"Price": 30970,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 3,
+				"VehicleId": 1,
+				"Date": "2023-08-17T00:00:00",
+				"Distance": 43202,
+				"Liters": 51.591,
+				"Price": 30439,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 4,
+				"VehicleId": 1,
+				"Date": "2023-09-02T00:00:00",
+				"Distance": 43771,
+				"Liters": 50.987,
+				"Price": 30082,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 5,
+				"VehicleId": 1,
+				"Date": "2023-09-22T00:00:00",
+				"Distance": 44246,
+				"Liters": 54.071,
+				"Price": 34281,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 6,
+				"VehicleId": 1,
+				"Date": "2023-10-08T00:00:00",
+				"Distance": 44672,
+				"Liters": 45.389,
+				"Price": 31999,
+				"Station": "Bomba Chury"
+			},
+			{
+				"Id": 7,
+				"VehicleId": 1,
+				"Date": "2023-10-22T00:00:00",
+				"Distance": 45080,
+				"Liters": 49.723,
+				"Price": 35055,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 8,
+				"VehicleId": 1,
+				"Date": "2023-11-06T00:00:00",
+				"Distance": 45665,
+				"Liters": 52.023,
+				"Price": 36676,
+				"Station": "Bomba los peaje Naranjo"
+			},
+			{
+				"Id": 9,
+				"VehicleId": 1,
+				"Date": "2023-11-27T00:00:00",
+				"Distance": 46088,
+				"Liters": 49.506,
+				"Price": 35348,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 10,
+				"VehicleId": 1,
+				"Date": "2023-12-09T00:00:00",
+				"Distance": 46604,
+				"Liters": 53.971,
+				"Price": 37294,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 11,
+				"VehicleId": 1,
+				"Date": "2023-12-18T00:00:00",
+				"Distance": 47047,
+				"Liters": 52.651,
+				"Price": 36382,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 12,
+				"VehicleId": 1,
+				"Date": "2023-12-28T00:00:00",
+				"Distance": 47654,
+				"Liters": 53.399,
+				"Price": 36899,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 13,
+				"VehicleId": 1,
+				"Date": "2024-01-13T00:00:00",
+				"Distance": 48146,
+				"Liters": 54.988,
+				"Price": 34752,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 14,
+				"VehicleId": 1,
+				"Date": "2024-01-25T00:00:00",
+				"Distance": 48706,
+				"Liters": 55.219,
+				"Price": 34898,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 15,
+				"VehicleId": 1,
+				"Date": "2024-01-29T00:00:00",
+				"Distance": 49343,
+				"Liters": 43.811,
+				"Price": 27689
+			},
+			{
+				"Id": 16,
+				"VehicleId": 1,
+				"Date": "2024-02-14T00:00:00",
+				"Distance": 49742,
+				"Liters": 52.653,
+				"Price": 32066,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 17,
+				"VehicleId": 1,
+				"Date": "2024-03-03T00:00:00",
+				"Distance": 50204,
+				"Liters": 50.222,
+				"Price": 30585,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 18,
+				"VehicleId": 1,
+				"Date": "2024-03-17T00:00:00",
+				"Distance": 50678,
+				"Liters": 58.386,
+				"Price": 37250,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 19,
+				"VehicleId": 1,
+				"Date": "2024-03-30T00:00:00",
+				"Distance": 51187,
+				"Liters": 53.599,
+				"Price": 34196,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 20,
+				"VehicleId": 1,
+				"Date": "2024-04-07T00:00:00",
+				"Distance": 51434,
+				"Liters": 28.624,
+				"Price": 18262,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 21,
+				"VehicleId": 1,
+				"Date": "2024-04-21T00:00:00",
+				"Distance": 51833,
+				"Liters": 45.219,
+				"Price": 28850,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 22,
+				"VehicleId": 1,
+				"Date": "2024-05-08T00:00:00",
+				"Distance": 52238,
+				"Liters": 46.44,
+				"Price": 28979,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 23,
+				"VehicleId": 1,
+				"Date": "2024-05-24T00:00:00",
+				"Distance": 52655,
+				"Liters": 54.248,
+				"Price": 33851,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 24,
+				"VehicleId": 1,
+				"Date": "2024-06-03T00:00:00",
+				"Distance": 53151,
+				"Liters": 51.39,
+				"Price": 32067,
+				"Station": "Bomba Cañas"
+			},
+			{
+				"Id": 25,
+				"VehicleId": 1,
+				"Date": "2024-06-17T00:00:00",
+				"Distance": 53572,
+				"Liters": 56.362,
+				"Price": 34437,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 26,
+				"VehicleId": 1,
+				"Date": "2024-07-04T00:00:00",
+				"Distance": 54075,
+				"Liters": 31.417,
+				"Price": 51419,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 27,
+				"VehicleId": 1,
+				"Date": "2024-07-16T00:00:00",
+				"Distance": 54623,
+				"Liters": 59.779,
+				"Price": 35867,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 28,
+				"VehicleId": 1,
+				"Date": "2024-07-21T00:00:00",
+				"Distance": 55312,
+				"Liters": 49.636,
+				"Price": 29783,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 29,
+				"VehicleId": 1,
+				"Date": "2024-07-25T00:00:00",
+				"Distance": 55896,
+				"Liters": 50.076,
+				"Price": 30046,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 30,
+				"VehicleId": 1,
+				"Date": "2024-08-11T00:00:00",
+				"Distance": 56398,
+				"Liters": 54.315,
+				"Price": 33621,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 31,
+				"VehicleId": 1,
+				"Date": "2024-08-25T00:00:00",
+				"Distance": 56924,
+				"Liters": 50.726,
+				"Price": 31399,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 32,
+				"VehicleId": 1,
+				"Date": "2024-09-07T00:00:00",
+				"Distance": 57444,
+				"Liters": 59.046,
+				"Price": 35250,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 33,
+				"VehicleId": 1,
+				"Date": "2024-09-21T00:00:00",
+				"Distance": 57982,
+				"Liters": 55.257,
+				"Price": 32988,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 34,
+				"VehicleId": 1,
+				"Date": "2024-10-10T00:00:00",
+				"Distance": 58366,
+				"Liters": 48.349,
+				"Price": 27317,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 35,
+				"VehicleId": 1,
+				"Date": "2024-10-19T00:00:00",
+				"Distance": 58931,
+				"Liters": 54.918,
+				"Price": 31029,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 36,
+				"VehicleId": 1,
+				"Date": "2024-11-04T00:00:00",
+				"Distance": 59441,
+				"Liters": 57.771,
+				"Price": 32045,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 37,
+				"VehicleId": 1,
+				"Date": "2024-11-18T00:00:00",
+				"Distance": 59929,
+				"Liters": 55.811,
+				"Price": 31533,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 38,
+				"VehicleId": 1,
+				"Date": "2024-12-01T00:00:00",
+				"Distance": 60350,
+				"Liters": 47.565,
+				"Price": 26874,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 39,
+				"VehicleId": 1,
+				"Date": "2024-12-12T00:00:00",
+				"Distance": 60766,
+				"Liters": 51.437,
+				"Price": 28599,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 40,
+				"VehicleId": 1,
+				"Date": "2024-12-20T00:00:00",
+				"Distance": 61306,
+				"Liters": 51.013,
+				"Price": 28373,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 41,
+				"VehicleId": 1,
+				"Date": "2025-01-01T00:00:00",
+				"Distance": 61796,
+				"Liters": 52.908,
+				"Price": 29417,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 42,
+				"VehicleId": 1,
+				"Date": "2025-01-19T00:00:00",
+				"Distance": 62224,
+				"Liters": 54.109,
+				"Price": 30085,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 43,
+				"VehicleId": 1,
+				"Date": "2025-01-31T00:00:00",
+				"Distance": 62716,
+				"Liters": 53.361,
+				"Price": 29882,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 44,
+				"VehicleId": 1,
+				"Date": "2025-02-17T00:00:00",
+				"Distance": 63142,
+				"Liters": 54.885,
+				"Price": 31284,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 45,
+				"VehicleId": 1,
+				"Date": "2025-03-07T00:00:00",
+				"Distance": 63609,
+				"Liters": 50.391,
+				"Price": 28723,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 46,
+				"VehicleId": 1,
+				"Date": "2025-03-21T00:00:00",
+				"Distance": 64092,
+				"Liters": 52.665,
+				"Price": 31178,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 47,
+				"VehicleId": 1,
+				"Date": "2025-04-05T00:00:00",
+				"Distance": 64489,
+				"Liters": 54.027,
+				"Price": 31900,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 48,
+				"VehicleId": 1,
+				"Date": "2025-04-21T00:00:00",
+				"Distance": 65039,
+				"Liters": 56.213,
+				"Price": 31985,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 49,
+				"VehicleId": 1,
+				"Date": "2025-05-04T00:00:00",
+				"Distance": 65508,
+				"Liters": 48.579,
+				"Price": 27641,
+				"Station": "Servicentro Chury"
+			},
+			{
+				"Id": 50,
+				"VehicleId": 1,
+				"Date": "2025-05-25T00:00:00",
+				"Distance": 65925,
+				"Liters": 53.024,
+				"Price": 28898,
+				"Station": "Estacion de servicio Naranjo"
+			},
+			{
+				"Id": 51,
+				"VehicleId": 1,
+				"Date": "2025-06-12T00:00:00",
+				"Distance": 66459,
+				"Liters": 57.644,
+				"Price": 30551,
+				"Station": "Servicentro Chury"
+			},
+			{
+				"Id": 52,
+				"VehicleId": 1,
+				"Date": "2025-06-20T00:00:00",
+				"Distance": 66944,
+				"Liters": 47.426,
+				"Price": 25136,
+				"Station": "Servicentro Chury"
+			},
+			{
+				"Id": 53,
+				"VehicleId": 1,
+				"Date": "2025-06-29T00:00:00",
+				"Distance": 67391,
+				"Liters": 55.513,
+				"Price": 29422,
+				"Station": "Servicentro Chury"
+			},
+			{
+				"Id": 54,
+				"VehicleId": 1,
+				"Date": "2025-07-09T00:00:00",
+				"Distance": 67865,
+				"Liters": 51.688,
+				"Price": 27240,
+				"Station": "Bomba Delta Hospital México"
+			},
+			{
+				"Id": 55,
+				"VehicleId": 1,
+				"Date": "2025-07-19T00:00:00",
+				"Distance": 68314,
+				"Liters": 50.745,
+				"Price": 26743,
+				"Station": "JSM Puntarenas"
+			},
+			{
+				"Id": 76,
+				"VehicleId": 1,
+				"Date": "2025-07-31T00:00:00",
+				"Distance": 68865,
+				"Liters": 55.457,
+				"Price":29226,
+				"Station": "Servicentro Chury"
+			},
+			{
+				"Id": 78,
+				"VehicleId": 1,
+				"Date": "2025-08-15T00:00:00",
+				"Distance": 69332,
+				"Liters": 54.073,
+				"Price":30119,
+				"Station": "Estacio Naranjo"
+			},
+			{
+				"Id": 79,
+				"VehicleId": 1,
+				"Date": "2025-08-27T00:00:00",
+				"Distance": 69827,
+				"Liters": 55.781,
+				"Price":31070,
+				"Station": "Bomba los tres puentes"
+			},
+			{
+				"Id": 80,
+				"VehicleId": 1,
+				"Date": "2025-09-14T00:00:00",
+				"Distance": 70231,
+				"Liters": 56.133,
+				"Price": 31653,
+				"Station": "Bomba Chury"
+			},
+			{
+				"Id": 81,
+				"VehicleId": 1,
+				"Date": "2025-10-02T00:00:00",
+				"Distance": 70638,
+				"Liters": 56.880,
+				"Price":32137,
+				"Station": "Bomba Chury"
+			},
+			{
+				"Id": 82,
+				"VehicleId": 1,
+				"Date": "2025-10-12T00:00:00",
+				"Distance": 71204,
+				"Liters": 55.844,
+				"Price":31552,
+				"Station": "Bomba La recta Palmares"
+			}
+		]
+	}
+]

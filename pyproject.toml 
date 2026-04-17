@@ -1,0 +1,12 @@
+[project]
+name = "mini-bee"
+version = "0.1.0"
+description = "Mini Bee - Vehicle fleet tracker"
+requires-python = ">=3.13"
+
+[tool.pyright]
+pythonVersion = "3.13"
+venvPath = "."
+venv = ".venv"
+include = ["src"]
+extraPaths = ["src"]
